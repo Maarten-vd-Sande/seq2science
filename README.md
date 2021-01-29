@@ -24,3 +24,6 @@ Information for new users, such as how to install and configure can be found in 
 
 ## Feedback
 Anything not working as expected? Please reach out to us via our [issues](https://github.com/vanheeringen-lab/seq2science/issues) page and we'll try to help you as soon as possible!
+
+
+snakemake workflow
